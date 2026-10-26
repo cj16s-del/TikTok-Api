@@ -13,6 +13,8 @@ This repo is a fork of TikTok-Api. This file is the persistent memory for helpin
 - When they send new weekly analytics, add them to the tables below, then commit and push to `main`.
 - Use ALL available resources on every task: TikTok-Api (hashtag stats, post stats), web search, the MarketingSkills `social` skill, and the data in this file. Don't just finish tasks, aim for posts that perform like the best ones here. If a tool is blocked, say so and use the next best source.
 
+- **Be a check-and-balance partner, not a yes-man.** Always consider their ideas seriously, but if the stats or likely fan reactions say an idea will hurt, say so clearly, explain why with the data, and give the better option.
+
 ## Writing rules (their preferences)
 - **Always think through the aftermath of every line before suggesting it.** Ask how fans will react and what they'll do next (stream, wait, skip, follow), then pick the option that best builds anticipation and long-term growth as an artist.
 - **Photo/text post** = screen text + title (bold line at the bottom) + caption. **Video posts have no title**; the first line of the caption does that job.
