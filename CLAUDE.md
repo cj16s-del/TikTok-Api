@@ -10,7 +10,7 @@ This repo is a fork of TikTok-Api. This file is the persistent memory for helpin
 ## Standing instructions
 - Before writing any new post, review the analytics below (and any new screenshots) and say what's working and what's holding them back. Keep the good habits and drop the bad ones.
 - When they send new weekly analytics, add them to the tables below, then commit and push to `main`.
-- Use the MarketingSkills `social` skill guidance and TikTok-Api where it works (see notes at the bottom).
+- Use ALL available resources on every task: TikTok-Api (hashtag stats, post stats), web search, the MarketingSkills `social` skill, and the data in this file. Don't just finish tasks, aim for posts that perform like the best ones here. If a tool is blocked, say so and use the next best source.
 
 ## Writing rules (their preferences)
 - **Photo/text post** = screen text + title (bold line at the bottom) + caption. **Video posts have no title**; the first line of the caption does that job.
@@ -28,9 +28,11 @@ This repo is a fork of TikTok-Api. This file is the persistent memory for helpin
 | Week | Post views | Profile views | Profile view rate | Likes | Comments | Shares | New followers |
 |---|---|---|---|---|---|---|---|
 | Oct 14–20, 2026 | 12.3K | 219 | 1.8% | 377 | 180 | 14 | ? |
-| Oct 18–24, 2026 | 140.6K | 1.2K | 0.85% | 5.3K | 3.6K | 115 | ? |
+| Oct 18–24, 2026 | 140.6K | 1.2K | 0.85% | 5.3K | 3.6K | 115 | +40 (total 98) |
 
-Targets: profile view rate back above 1.5%. Shares are the weakest metric.
+Oct 18–24 conversion: 1 follower per ~3.5K views; ~3.3% of profile visitors followed (40 of 1.2K). Total followers 98, so close to 100 (unlocks follower insights) and working toward 1,000 (unlocks LIVE and a bio link on personal accounts).
+
+Targets: profile view rate back above 1.5%; profile visitor follow rate above 5%. Shares are the weakest metric.
 
 Traffic (Oct 14–20): For You 96.7%, profile 3.0%, search 0.2%, sound 0.1%. Search queries that found them: "iayze funny moments" (26%), "iayze fl preset", "iayze 556", "fl studio".
 
