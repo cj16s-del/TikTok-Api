@@ -43,7 +43,9 @@ Traffic (Oct 14–20): For You 96.7%, profile 3.0%, search 0.2%, sound 0.1%. Sea
 | Samples question (NOT Splice) | text | 7.7K | 170 | 51 | 24 | 2 | Fanta (own) |
 | Artists/prods "lock in" (no bracket twist) | text | 1.7K | 35 | 8 | 0 | 1 | own |
 | Face + Norfolk map | photos | 1.3K | 81 | 34 | 6 | 24 | — |
-| Spider-Man edit | video | 323 | 19 | 0 | 2 | — | Reminiscing (own) |
+| Spider-Man "Reminiscing" edit (49s) | video | 365 | 23 | 0 | 2 | 2 | Reminiscing (own) |
+
+Spider-Man edit detail: avg watch 6.1s (13%), 1.22% watched to the end, most viewers left at 0:02, likes peaked at 0:01. Traffic: For You 77%, profile 14.8%, search 1.9%. Searches: "peter and mj", "i don't love you spiderman", "spiderman brand new day", "reminiscing edit". Viewers 73% male, 73% aged 18-24. Being reposted with a cut and a new caption.
 
 The user says their top-viewed post overall (a Jay-Z post) used their own song. The Jay-Z reply post (Miley/Metallica) underperformed after the bracket twist moved into the title. The beat-pack post (asking producers for beats) and the first beat video (diamond* x Pz' type beat) underperformed.
 
@@ -53,7 +55,7 @@ The user says their top-viewed post overall (a Jay-Z post) used their own song. 
 - Biggest gap: text posts get views but few followers. Posts showing their face or music convert far better. Fixes: pin posts on the profile, a clear bio, video replies on camera, a face/music post every 3–4 posts, series ("part 2").
 
 ## Hashtag data (TikTok-Api, Oct 2026, avg views per video)
-- Strong: #esdeekid ~35.8k, #fakemink ~14.2k, #producertok ~10k, #vocalmixing ~9.6k, #flstudio ~9.2k.
+- Strong: #esdeekid ~35.8k, #peterandmj ~32k (only ~11k videos), #spidermanbrandnewday ~17.7k, #fakemink ~14.2k, #producertok ~10k, #vocalmixing ~9.6k, #flstudio ~9.2k.
 - Medium: #soundgoodizer ~7k (only ~1.2k videos, little competition), #undergroundrap ~6.5k, #pluggnb ~6k.
 - Weak: #rappertok ~5.5k, #producerhumor ~2.8k, #homestudio ~4.4k, #undergroundbeats ~3.9k, #undergroundhiphop ~2.9k.
 - Only tag artists the beat actually sounds like.
