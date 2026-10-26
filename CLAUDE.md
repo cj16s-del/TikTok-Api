@@ -54,8 +54,8 @@ The user says their top-viewed post overall (a Jay-Z post) used their own song. 
 
 ## Hashtag data (TikTok-Api, Oct 2026, avg views per video)
 - Strong: #esdeekid ~35.8k, #fakemink ~14.2k, #producertok ~10k, #vocalmixing ~9.6k, #flstudio ~9.2k.
-- Medium: #undergroundrap ~6.5k, #pluggnb ~6k.
-- Weak: #rappertok ~5.5k, #homestudio ~4.4k, #undergroundbeats ~3.9k, #undergroundhiphop ~2.9k.
+- Medium: #soundgoodizer ~7k (only ~1.2k videos, little competition), #undergroundrap ~6.5k, #pluggnb ~6k.
+- Weak: #rappertok ~5.5k, #producerhumor ~2.8k, #homestudio ~4.4k, #undergroundbeats ~3.9k, #undergroundhiphop ~2.9k.
 - Only tag artists the beat actually sounds like.
 
 ## TikTok-Api notes
