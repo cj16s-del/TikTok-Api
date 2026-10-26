@@ -6,6 +6,7 @@ This repo is a fork of TikTok-Api. This file is the persistent memory for helpin
 - Underground rapper and producer from Norfolk / Virginia Beach, VA. Makes beats in FL Studio and raps on their own songs.
 - Account plan: mostly opinion text posts (photo mode), plus videos they want to post (beats, music).
 - Goal: turn views into **profile views, followers and listens to their music**.
+- Release plan (as of Oct 26, 2026): a **project drops the week of Oct 26**. A separate unreleased single (snippet used on the Jay-Z "give it to me" post) is **not on the project** and comes out after it.
 
 ## Standing instructions
 - Before writing any new post, review the analytics below (and any new screenshots) and say what's working and what's holding them back. Keep the good habits and drop the bad ones.
