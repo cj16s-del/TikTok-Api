@@ -55,9 +55,9 @@ The user says their top-viewed post overall (a Jay-Z post) used their own song. 
 - Biggest gap: text posts get views but few followers. Posts showing their face or music convert far better. Fixes: pin posts on the profile, a clear bio, video replies on camera, a face/music post every 3–4 posts, series ("part 2").
 
 ## Hashtag data (TikTok-Api, Oct 2026, avg views per video)
-- Strong: #esdeekid ~35.8k, #peterandmj ~32k (only ~11k videos), #spidermanbrandnewday ~17.7k, #fakemink ~14.2k, #producertok ~10k, #vocalmixing ~9.6k, #flstudio ~9.2k.
-- Medium: #soundgoodizer ~7k (only ~1.2k videos, little competition), #undergroundrap ~6.5k, #pluggnb ~6k.
-- Weak: #rappertok ~5.5k, #producerhumor ~2.8k, #homestudio ~4.4k, #undergroundbeats ~3.9k, #undergroundhiphop ~2.9k.
+- Strong: #esdeekid ~35.8k, #peterandmj ~32k (only ~11k videos), #spidermanbrandnewday ~17.7k, #fakemink ~14.2k, #musicindustry ~10.3k, #producertok ~10k, #vocalmixing ~9.6k, #flstudio ~9.2k.
+- Medium: #musicmarketing ~5.7k, #soundgoodizer ~7k (only ~1.2k videos, little competition), #undergroundrap ~6.5k, #pluggnb ~6k.
+- Weak: #independentartist ~3.6k (2.5M videos, crowded), #rappertok ~5.5k, #producerhumor ~2.8k, #homestudio ~4.4k, #undergroundbeats ~3.9k, #undergroundhiphop ~2.9k.
 - Only tag artists the beat actually sounds like.
 
 ## TikTok-Api notes
