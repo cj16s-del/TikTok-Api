@@ -40,7 +40,7 @@ Traffic (Oct 14–20): For You 96.7%, profile 3.0%, search 0.2%, sound 0.1%. Sea
 
 | Post | Type | Views | Likes | Comments | Saves | New followers | Sound |
 |---|---|---|---|---|---|---|---|
-| Jay-Z "picking HIMSELF" + Nine Vicious/MGK twist | text | 20.9K | 992 | 303 | 53 | ? | Tom Ford (Jay-Z) |
+| Jay-Z "picking HIMSELF" + Nine Vicious/MGK twist | text | 42.8K (Oct 26) | 3,179 | 543 | 131 | ? | Tom Ford (Jay-Z) |
 | VST question (NOT Serum/Omnisphere) | text | 11.8K | 399 | 316 | 121 | 1 | Foul Out (own) |
 | Samples question (NOT Splice) | text | 7.7K | 170 | 51 | 24 | 2 | Fanta (own) |
 | Artists/prods "lock in" (no bracket twist) | text | 1.7K | 35 | 8 | 0 | 1 | own |
@@ -51,13 +51,16 @@ Spider-Man edit detail: avg watch 6.1s (13%), 1.22% watched to the end, most vie
 
 The user says their top-viewed post overall (a Jay-Z post) used their own song. The Jay-Z reply post (Miley/Metallica) underperformed after the bracket twist moved into the title. The beat-pack post (asking producers for beats) and the first beat video (diamond* x Pz' type beat) underperformed.
 
+## News notes
+- Jay-Z headlining the 2027 Super Bowl halftime show was reported by Newsweek (Oct 2026) but not confirmed elsewhere. Roc Nation has partnered with the NFL on the halftime show since 2019. Don't state the booking as confirmed fact.
+
 ## What works / what doesn't
 - Works: one clear question or hot take plus a bracket twist on screen; producer knowledge questions (lots of saves); news hot takes (views and comments); replying in comments.
 - Doesn't: posts with no question or take; two questions at once; asking people to do something for you; running the same topic many posts in a row.
 - Biggest gap: text posts get views but few followers. Posts showing their face or music convert far better. Fixes: pin posts on the profile, a clear bio, video replies on camera, a face/music post every 3–4 posts, series ("part 2").
 
 ## Hashtag data (TikTok-Api, Oct 2026, avg views per video)
-- Strong: #esdeekid ~35.8k, #peterandmj ~32k (only ~11k videos), #spidermanbrandnewday ~17.7k, #fakemink ~14.2k, #musicindustry ~10.3k, #producertok ~10k, #vocalmixing ~9.6k, #flstudio ~9.2k.
+- Strong: #esdeekid ~35.8k, #unreleased ~15.5k (1.1M videos), #peterandmj ~32k (only ~11k videos), #spidermanbrandnewday ~17.7k, #fakemink ~14.2k, #musicindustry ~10.3k, #producertok ~10k, #vocalmixing ~9.6k, #flstudio ~9.2k.
 - Medium: #musicmarketing ~5.7k, #soundgoodizer ~7k (only ~1.2k videos, little competition), #undergroundrap ~6.5k, #pluggnb ~6k.
 - Weak: #independentartist ~3.6k (2.5M videos, crowded), #rappertok ~5.5k, #producerhumor ~2.8k, #homestudio ~4.4k, #undergroundbeats ~3.9k, #undergroundhiphop ~2.9k.
 - Only tag artists the beat actually sounds like.
