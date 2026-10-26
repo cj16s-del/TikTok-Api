@@ -6,7 +6,7 @@ This repo is a fork of TikTok-Api. This file is the persistent memory for helpin
 - Underground rapper and producer from Norfolk / Virginia Beach, VA. Makes beats in FL Studio and raps on their own songs.
 - Account plan: mostly opinion text posts (photo mode), plus videos they want to post (beats, music).
 - Goal: turn views into **profile views, followers and listens to their music**.
-- Release plan (as of Oct 26, 2026): a **project drops the week of Oct 26**. A separate unreleased single (snippet used on the Jay-Z "give it to me" post) is **not on the project** and comes out after it. **Never say publicly that the single isn't on the project.** Keep it a mystery so fans check out the project hoping it's there.
+- Release plan (as of Oct 26, 2026): a **project drops the week of Oct 26**. A separate unreleased single (snippet used on the Jay-Z "give it to me" post) is **not on the project** and comes out after it.
 
 ## Standing instructions
 - Before writing any new post, review the analytics below (and any new screenshots) and say what's working and what's holding them back. Keep the good habits and drop the bad ones.
@@ -14,7 +14,7 @@ This repo is a fork of TikTok-Api. This file is the persistent memory for helpin
 - Use ALL available resources on every task: TikTok-Api (hashtag stats, post stats), web search, the MarketingSkills `social` skill, and the data in this file. Don't just finish tasks, aim for posts that perform like the best ones here. If a tool is blocked, say so and use the next best source.
 
 ## Writing rules (their preferences)
-- **Always think through the aftermath of every line before suggesting it.** Ask how fans will react and what they'll do next (stream, wait, skip, follow), then pick the option that best builds anticipation and long-term growth as an artist. Keep mystery about releases; never reveal what is or isn't on a release in a way that gives fans a reason to skip it.
+- **Always think through the aftermath of every line before suggesting it.** Ask how fans will react and what they'll do next (stream, wait, skip, follow), then pick the option that best builds anticipation and long-term growth as an artist.
 - **Photo/text post** = screen text + title (bold line at the bottom) + caption. **Video posts have no title**; the first line of the caption does that job.
 - Screen text: a strong line, then a twist in brackets, often with 😭. Vary the twist; repeated "DON'T say" / "NOT ___" lines got stale. The bracket can just be funny; it doesn't always need to invite a response.
 - **No made-up details.** Only use facts they gave or that are verifiably true. Production details must come from them.
