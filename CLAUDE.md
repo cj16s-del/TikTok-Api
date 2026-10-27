@@ -47,7 +47,7 @@ Traffic (Oct 14–20): For You 96.7%, profile 3.0%, search 0.2%, sound 0.1%. Sea
 
 | Post | Type | Views | Likes | Comments | Saves | New followers | Sound |
 |---|---|---|---|---|---|---|---|
-| Jay-Z "picking HIMSELF" + Nine Vicious/MGK twist | text | 42.8K (Oct 26) | 3,179 | 543 | 131 | ? | Tom Ford (Jay-Z) |
+| Jay-Z "picking HIMSELF" + Nine Vicious/MGK twist | text | 44.4K (Oct 27) | 3,365 | 554 | 139 | ? | Tom Ford (Jay-Z) |
 | VST question (NOT Serum/Omnisphere) | text | 11.8K | 399 | 316 | 121 | 1 | Foul Out (own) |
 | Samples question (NOT Splice) | text | 7.7K | 170 | 51 | 24 | 2 | Fanta (own) |
 | Artists/prods "lock in" (no bracket twist) | text | 1.7K | 35 | 8 | 0 | 1 | own |
@@ -59,7 +59,7 @@ Spider-Man edit detail: avg watch 6.1s (13%), 1.22% watched to the end, most vie
 The user says their top-viewed post overall (a Jay-Z post) used their own song. The Jay-Z reply post (Miley/Metallica) underperformed after the bracket twist moved into the title. The beat-pack post (asking producers for beats) and the first beat video (diamond* x Pz' type beat) underperformed.
 
 ## News notes
-- Jay-Z headlining the 2027 Super Bowl halftime show was reported by Newsweek (Oct 2026) but not confirmed elsewhere. Roc Nation has partnered with the NFL on the halftime show since 2019. Don't state the booking as confirmed fact.
+- Jay-Z headlining Super Bowl LXI (Feb 14, 2027, SoFi Stadium) was first reported by Puck on Oct 20, 2026; Miley Cyrus, Justin Bieber and Harry Styles were reportedly also considered. On Oct 27 the user said it was officially announced; web search hadn't caught up yet. Roc Nation has partnered with the NFL on the halftime show since 2019.
 
 ## What works / what doesn't
 - Works: one clear question or hot take plus a bracket twist on screen; producer knowledge questions (lots of saves); news hot takes (views and comments); replying in comments.
