@@ -59,7 +59,7 @@ Spider-Man edit detail: avg watch 6.1s (13%), 1.22% watched to the end, most vie
 The user says their top-viewed post overall (a Jay-Z post) used their own song. The Jay-Z reply post (Miley/Metallica) underperformed after the bracket twist moved into the title. The beat-pack post (asking producers for beats) and the first beat video (diamond* x Pz' type beat) underperformed.
 
 ## News notes
-- Jay-Z headlining Super Bowl LXI (Feb 14, 2027, SoFi Stadium) was first reported by Puck on Oct 20, 2026; Miley Cyrus, Justin Bieber and Harry Styles were reportedly also considered. On Oct 27 the user said it was officially announced; web search hadn't caught up yet. Roc Nation has partnered with the NFL on the halftime show since 2019.
+- Jay-Z headlining Super Bowl LXI (Feb 14, 2027, SoFi Stadium) was first reported by Puck on Oct 20, 2026; Miley Cyrus, Justin Bieber and Harry Styles were reportedly also considered. Officially announced Oct 27, 2026 (Apple Music, the halftime show sponsor, posted it). Roc Nation has partnered with the NFL on the halftime show since 2019.
 
 ## What works / what doesn't
 - Works: one clear question or hot take plus a bracket twist on screen; producer knowledge questions (lots of saves); news hot takes (views and comments); replying in comments.
