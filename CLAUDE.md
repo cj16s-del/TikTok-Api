@@ -64,6 +64,7 @@ The user says their top-viewed post overall (a Jay-Z post) used their own song. 
 ## What works / what doesn't
 - Works: one clear question or hot take plus a bracket twist on screen; producer knowledge questions (lots of saves); news hot takes (views and comments); replying in comments.
 - Doesn't: posts with no question or take; two questions at once; asking people to do something for you; running the same topic many posts in a row.
+- Posting mix (agreed Oct 27): about 2–3 conversation posts for every 1 music/face post. Conversation posts should pull hip-hop/music fans (the audience that fits their music) and always carry their song as the sound. Space same-topic posts at least a day apart.
 - Biggest gap: text posts get views but few followers. Posts showing their face or music convert far better. Fixes: pin posts on the profile, a clear bio, video replies on camera, a face/music post every 3–4 posts, series ("part 2").
 
 ## Hashtag data (TikTok-Api, Oct 2026, avg views per video)
