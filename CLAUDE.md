@@ -36,6 +36,8 @@ This repo is a fork of TikTok-Api. This file is the persistent memory for helpin
 
 Oct 18–24 conversion: 1 follower per ~3.5K views; ~3.3% of profile visitors followed (40 of 1.2K). Total followers 98, so close to 100 (unlocks follower insights) and working toward 1,000 (unlocks LIVE and a bio link on personal accounts).
 
+Followers Oct 19–25: total **100** (follower insights unlocked), net +37 (vs +9 the period before). Followers are 82% male, 17% female. Most active: 12pm–7pm, peak 3pm (Oct 25: 37 followers online at 3pm); lowest 4–6am. Post times so far: VST 9:02pm (11.8K), samples 1:08pm (7.7K), artists/prods 1:01am (1.7K, weakest). Best window: post around 1–3pm so the post is picking up during the 3–7pm peak; avoid late-night posts.
+
 Targets: profile view rate back above 1.5%; profile visitor follow rate above 5%. Shares are the weakest metric.
 
 Traffic (Oct 14–20): For You 96.7%, profile 3.0%, search 0.2%, sound 0.1%. Search queries that found them: "iayze funny moments" (26%), "iayze fl preset", "iayze 556", "fl studio".
