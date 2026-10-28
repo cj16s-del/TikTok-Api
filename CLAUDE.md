@@ -41,7 +41,7 @@ Followers Oct 19–25: total **100** (follower insights unlocked), net +37 (vs +
 
 Targets: profile view rate back above 1.5%; profile visitor follow rate above 5%. Shares are the weakest metric.
 
-Traffic (Oct 14–20): For You 96.7%, profile 3.0%, search 0.2%, sound 0.1%. Search queries that found them: "iayze funny moments" (26%), "iayze fl preset", "iayze 556", "fl studio".
+Traffic (Oct 14–20): For You 96.7%, profile 3.0%, search 0.2%, sound 0.1%. Search queries that found them: "che superbowl halftime show" (seen Oct 28), "iayze funny moments" (26%), "iayze fl preset", "iayze 556", "fl studio".
 
 ## Post results
 
@@ -51,6 +51,7 @@ Traffic (Oct 14–20): For You 96.7%, profile 3.0%, search 0.2%, sound 0.1%. Sea
 | VST question (NOT Serum/Omnisphere) | text | 11.8K | 399 | 316 | 121 | 1 | Foul Out (own) |
 | Samples question (NOT Splice) | text | 7.7K | 170 | 51 | 24 | 2 | Fanta (own) |
 | Artists/prods "lock in" (no bracket twist) | text | 1.7K | 35 | 8 | 0 | 1 | own |
+| Che reply / comment thread post ("Che is more important than Jay-Z" comment, 132 likes) | text | 11K+ (Oct 28) | 543 | 247 | ? | ? | ? |
 | Face + Norfolk map | photos | 1.3K | 81 | 34 | 6 | 24 | — |
 | Spider-Man "Reminiscing" edit (49s) | video | 365 | 23 | 0 | 2 | 2 | Reminiscing (own) |
 
