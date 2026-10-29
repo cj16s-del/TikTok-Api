@@ -24,7 +24,7 @@ This repo is a fork of TikTok-Api. This file is the persistent memory for helpin
 - Always use the **strongest buzzwords** for the topic in titles and captions.
 - Max **5 hashtags** (TikTok limit). No #fyp / #viral.
 - Celebrity hot takes: aim the joke at the person who did something, not at anyone's looks.
-- Sound: **their own song** by default (their top post used it). Use their beat on posts aimed at artists, with the sound renamed to `prod. drako! 🔥`.
+- Sound: **their own song** by default (their top post used it). Use their beat on posts aimed at artists, with the sound renamed to e.g. `prod drako` (TikTok sound names can't contain hyphens or "!", so leave out punctuation).
 - Location: Norfolk · Virginia Beach.
 - **No movie/TV spoilers** in answers or post copy (e.g. Avengers: Doomsday). Release date and casting are fine; plot, trailer moments and leaks are not.
 
