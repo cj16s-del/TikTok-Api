@@ -52,6 +52,7 @@ Traffic (Oct 14–20): For You 96.7%, profile 3.0%, search 0.2%, sound 0.1%. Sea
 | Samples question (NOT Splice) | text | 7.7K | 170 | 51 | 24 | 2 | Fanta (own) |
 | Artists/prods "lock in" (no bracket twist) | text | 1.7K | 35 | 8 | 0 | 1 | own |
 | Che reply / comment thread post ("Che is more important than Jay-Z" comment, 132 likes) | text | 11K+ (Oct 28) | 543 | 247 | ? | ? | ? |
+| Artists promo question ("gatekeeping in my comments is illegal") | text | 3,572 (Oct 30) | 54 | 20 | ? | ? | ? |
 | Face + Norfolk map | photos | 1.3K | 81 | 34 | 6 | 24 | — |
 | Spider-Man "Reminiscing" edit (49s) | video | 365 | 23 | 0 | 2 | 2 | Reminiscing (own) |
 
