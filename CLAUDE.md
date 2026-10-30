@@ -30,6 +30,11 @@ This repo is a fork of TikTok-Api. This file is the persistent memory for helpin
 - Location: Norfolk · Virginia Beach.
 - **No movie/TV spoilers** in answers or post copy (e.g. Avengers: Doomsday). Release date and casting are fine; plot, trailer moments and leaks are not.
 
+## Post goals by type
+- **Song posts → get people to stream it.** Hashtags for listeners/rap fans (#rapper, #undergroundrap, artists the song sounds like); no producer tags. Use the official distributed version of the song as the sound when possible (sound page can link to streaming apps). Song title + name in the caption's first line and a pinned comment so it's searchable. Strongest moment in the first 1–2 seconds; show their face when possible.
+- **Beat posts → reach artists looking for producers.** Hashtags for artists (#rapper, #undergroundrap, artists the beat sounds like); no #producertok/#flstudio. Overlay speaks to artists ("Artists:"). Sound name like `[artist] type beat prod drako`. Have a ready reply for "how do I get this?".
+- Conversation/text posts that carry their song count as song posts for hashtag purposes when the goal is listens.
+
 ## Weekly analytics
 
 | Week | Post views | Profile views | Profile view rate | Likes | Comments | Shares | New followers |
