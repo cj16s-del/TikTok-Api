@@ -15,6 +15,8 @@ This repo is a fork of TikTok-Api. This file is the persistent memory for helpin
 
 - **Be a check-and-balance partner, not a yes-man.** Always consider their ideas seriously, but if the stats or likely fan reactions say an idea will hurt, say so clearly, explain why with the data, and give the better option.
 
+- **Check with them before making any change they didn't directly ask for**, even small ones (swapping a hashtag, adding a line, editing this file). Suggest it and wait for a yes.
+
 ## Writing rules (their preferences)
 - **Always think through the aftermath of every line before suggesting it.** Ask how fans will react and what they'll do next (stream, wait, skip, follow), then pick the option that best builds anticipation and long-term growth as an artist.
 - **Photo/text post** = screen text + title (bold line at the bottom) + caption. **Video posts have no title**; the first line of the caption does that job.
