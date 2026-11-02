@@ -82,7 +82,7 @@ The user says their top-viewed post overall (a Jay-Z post) used their own song. 
 - Medium: #newmusic ~11.1k (19.6M videos, crowded; TikTok's official new-music hub), #soundcloud ~8.4k, #snippet ~7.3k, #musician ~8.9k (5.5M videos, broad), #musicmarketing ~5.7k, #soundgoodizer ~7k (only ~1.2k videos, little competition), #undergroundrap ~6.5k, #pluggnb ~6k.
 - Weak: #undergroundmusic ~5.1k, #upcomingartist ~4.0k, #musicpromotion ~4.0k, #musicpromo ~2.7k (topic-match promo tags are weak), #typebeat ~3.4k (771k videos), #skaiwatertypebeat ~1k (only 106 videos), #independentartist ~3.6k (2.5M videos, crowded), #rappertok ~5.5k, #producerhumor ~2.8k, #homestudio ~4.4k, #undergroundbeats ~3.9k, #undergroundhiphop ~2.9k.
 - Only tag artists the beat actually sounds like.
-- Blocked so far (no data): #jerk, #jerkmusic, #jerkrap, #newartist, #indieartist, #undergroundartist, #newrap.
+- Blocked so far (no data): #jerk, #jerkmusic, #jerkrap, #newartist, #indieartist, #undergroundartist, #newrap, #openverse, #openversechallenge.
 - Their sound: jerk / hoodtrap (e.g. "King Kong", final track of the project).
 - Pick tags for the audience you want, not just the topic: TikTok uses hashtags to choose which audience to test a post on. #producertok brings producers; for posts meant to get artists/listeners to hear their song, prefer #rapper / #undergroundrap.
 
