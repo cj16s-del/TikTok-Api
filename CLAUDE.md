@@ -7,6 +7,7 @@ This repo is a fork of TikTok-Api. This file is the persistent memory for helpin
 - Account plan: mostly opinion text posts (photo mode), plus videos they want to post (beats, music).
 - Goal: turn views into **profile views, followers and listens to their music**.
 - Release plan (as of Oct 26, 2026): a **project drops the week of Oct 26**. A separate unreleased single (its snippet was planned as the sound on the "if y'all gonna hate on Jay-Z I should get the Super Bowl" post; the song's name is unknown) is **not on the project** and comes out after it.
+- Separate again: a **new song with an open verse** (drako raps the first verse, the next verse is open for other artists), posted as a Halloween-pics carousel around Nov 2, 2026. Not the project and not the unreleased single.
 
 ## Standing instructions
 - Before writing any new post, review the analytics below (and any new screenshots) and say what's working and what's holding them back. Keep the good habits and drop the bad ones.
