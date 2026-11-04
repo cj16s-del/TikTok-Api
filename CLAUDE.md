@@ -68,6 +68,33 @@ Spider-Man edit detail: avg watch 6.1s (13%), 1.22% watched to the end, most vie
 
 The user says their top-viewed post overall (a Jay-Z post) used their own song. The Jay-Z reply post (Miley/Metallica) underperformed after the bracket twist moved into the title. The beat-pack post (asking producers for beats) and the first beat video (diamond* x Pz' type beat) underperformed.
 
+## Public post stats via Apify (pulled Nov 4, 2026; 123 followers)
+Pull fresh numbers anytime with the tiktok-skills Apify client: `fetch_profile_videos("drakoo.wav")` (see Other tools for the key setup). Private insights (profile views, followers per post, traffic, retention) still need screenshots.
+
+| Date | Post | Views | Likes | Comments | Shares | Sound |
+|---|---|---|---|---|---|---|
+| Oct 22 | "no way y'all really said Che, Nine Vicious, or Morgan Wallen" | 92.4K | 497 | 2,679 | 19 | Alright |
+| Oct 24 | Jay-Z surprise guests (Run This Town…) | 35.8K | 307 | 166 | 16 | Funko! |
+| Oct 28 | Che vs Jay-Z "underground takes" pt. 1 | 30.4K | 3,555 | 2 | 91 | Foul Out |
+| Oct 25 | Vocal plugin question (beat as sound) | 18.3K | 922 | 270 | 25 | diamond x Sk8star type beat |
+| Oct 26 | Promo question #1 | 4.1K | 80 | 29 | 3 | Abs Hurt |
+| Oct 29 | "UNSERIOUS" pt. 2 (top 5) | 2.6K | 57 | 52 | 2 | treason |
+| Oct 24 | Beat-pack ask | 2.4K | 26 | 6 | 0 | What I Did? |
+| Oct 17 | Face + map intro | 1.6K | 105 | 41 | 2 | Abs Hurt |
+| Oct 27 | "GOAT out of the bag" | 1.0K | 12 | 29 | 0 | unreleased |
+| Oct 30 | "Good music" promo | 817 | 4 | 6 | 0 | Alright |
+| Oct 25 | Blueface/Chrisean | 823 | 9 | 3 | 2 | Funko! |
+| Oct 26 | Soundgoodizer meme | 657 | 10 | 8 | 0 | diamond x Sk8star type beat |
+| Oct 26 | Spider-Man edit repost | 417 | 28 | 2 | 1 | Reminiscing |
+| Oct 22 | 2023 beat | 384 | 14 | 2 | 1 | original sound |
+| Oct 29 | Skaiwater x Bleood beat | 364 | 13 | 2 | 0 | original sound |
+| Oct 23 | Miley reply | 322 | 6 | 5 | 0 | Funko! |
+| Nov 3 | Halloween open-verse carousel | 218 | 8 | 3 | 1 | Unreleased Open Verse |
+| Oct 31 | King Kong snippet | 204 | 9 | 4 | 1 | unreleased |
+| Oct 18 | "Icka Icka" | 181 | 5 | 0 | 1 | unreleased |
+
+Takeaways (Nov 4): hits are all hot takes/questions (18K–92K); Che vs Jay-Z had the best like rate (11.7%) and shares (91). Music-first posts (snippets, beats, open verse) stall at 200–400 views. Follow-ups (pt. 2, second promo post) did worse than the originals, and the last few posts trended down after Oct 28. The vocal plugin question (18.3K, beat as sound) is the model: carry music under a take or question instead of posting it alone.
+
 ## News notes
 - Jay-Z headlining Super Bowl LXI (Feb 14, 2027, SoFi Stadium) was first reported by Puck on Oct 20, 2026; Miley Cyrus, Justin Bieber and Harry Styles were reportedly also considered. Officially announced Oct 27, 2026 (Apple Music, the halftime show sponsor, posted it). Roc Nation has partnered with the NFL on the halftime show since 2019.
 
