@@ -87,6 +87,12 @@ The user says their top-viewed post overall (a Jay-Z post) used their own song. 
 - Their sound: jerk / hoodtrap (e.g. "King Kong", final track of the project).
 - Pick tags for the audience you want, not just the topic: TikTok uses hashtags to choose which audience to test a post on. #producertok brings producers; for posts meant to get artists/listeners to hear their song, prefer #rapper / #undergroundrap.
 
+## Other tools (forks in their GitHub, public, read-only in sessions)
+Clone each with `GIT_LFS_SKIP_SMUDGE=1 git clone --depth 1 https://github.com/cj16s-del/<repo> /home/user/cj16s-del/<repo>`.
+- **`last30days-skill`**: researches what people are saying about any topic in the last 30 days (Reddit, X, YouTube, TikTok, Hacker News, Polymarket, web). Use it for news/hot-take posts, since commentary on other socials crosses over to TikTok. Reddit/HN/web work free; TikTok and Instagram need `SCRAPECREATORS_API_KEY` (10,000 free calls) set in the environment's network secrets.
+- **`tiktok-skills`**: 8 TikTok skills: `tt-hook-scripter`, `tt-caption-writer`, `tt-content-planner`, `tt-trend-mapper`, `tt-audience-insights`, `tt-profile-optimizer`, `tt-humanizer`, `tt-repurposer`. `tt-audience-insights` pulls real hashtag/profile data via Apify and needs `APIFY_TOKEN`; publishing features need a Publora key (not used). Note: its README says TikTok is video-only, which is wrong for this account (they post photo/text posts); ignore that assumption.
+- Not useful for TikTok: `ai-marketing-skills`, `notfair-plugin` (only for paid TikTok ads), `linkedin-skills`, `marketing-skills`, `Vibe-Trading`, `TradingAgents`, `trader-skill` (investing).
+
 ## TikTok-Api notes
 - Run from repo root with `PYTHONPATH=.`; launch Chromium with `executable_path="/opt/pw-browsers/chromium"`.
 - Without an `ms_token`, TikTok often returns empty responses. Hashtag lookups work intermittently (one session per tag, with pauses). User profile listing fails.
