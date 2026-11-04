@@ -79,11 +79,11 @@ The user says their top-viewed post overall (a Jay-Z post) used their own song. 
 
 ## Hashtag data (TikTok-Api, Oct 2026, avg views per video)
 - **Always add newly checked hashtag stats here and keep this list current** (user request, Oct 31).
-- Strong: #overrated ~19.8k (~101k videos), #hiphop ~14.3k (15.9M videos, crowded), #hoodtrap ~48.6k (only ~168k videos; their genre), #esdeekid ~35.8k, #rapper ~17.1k (5M videos, reaches rappers/rap fans), #unreleased ~15.5k (1.1M videos), #peterandmj ~32k (only ~11k videos), #spidermanbrandnewday ~17.7k, #fakemink ~14.2k, #musicindustry ~10.3k, #producertok ~10k, #vocalmixing ~9.6k, #flstudio ~9.2k.
+- Strong: #kencarson ~19.6k (757k videos), #osamason ~12.0k (419k videos), #overrated ~19.8k (~101k videos), #hiphop ~14.3k (15.9M videos, crowded), #hoodtrap ~48.6k (only ~168k videos; their genre), #esdeekid ~35.8k, #rapper ~17.1k (5M videos, reaches rappers/rap fans), #unreleased ~15.5k (1.1M videos), #peterandmj ~32k (only ~11k videos), #spidermanbrandnewday ~17.7k, #fakemink ~14.2k, #musicindustry ~10.3k, #producertok ~10k, #vocalmixing ~9.6k, #flstudio ~9.2k.
 - Medium: #newmusic ~11.1k (19.6M videos, crowded; TikTok's official new-music hub), #soundcloud ~8.4k, #snippet ~7.3k, #musician ~8.9k (5.5M videos, broad), #musicmarketing ~5.7k, #soundgoodizer ~7k (only ~1.2k videos, little competition), #undergroundrap ~6.5k, #pluggnb ~6k.
 - Weak: #undergroundmusic ~5.1k, #upcomingartist ~4.0k, #musicpromotion ~4.0k, #musicpromo ~2.7k (topic-match promo tags are weak), #typebeat ~3.4k (771k videos), #skaiwatertypebeat ~1k (only 106 videos), #independentartist ~3.6k (2.5M videos, crowded), #rappertok ~5.5k, #producerhumor ~2.8k, #homestudio ~4.4k, #undergroundbeats ~3.9k, #undergroundhiphop ~2.9k.
 - Only tag artists the beat actually sounds like.
-- Blocked so far (no data): #jerk, #jerkmusic, #jerkrap, #newartist, #indieartist, #undergroundartist, #newrap, #openverse, #openversechallenge, #unpopularopinion.
+- Blocked so far (no data): #jerk, #jerkmusic, #jerkrap, #newartist, #indieartist, #undergroundartist, #newrap, #openverse, #openversechallenge, #unpopularopinion, #ninevicious, #bleood, #che.
 - Their sound: jerk / hoodtrap (e.g. "King Kong", final track of the project).
 - Pick tags for the audience you want, not just the topic: TikTok uses hashtags to choose which audience to test a post on. #producertok brings producers; for posts meant to get artists/listeners to hear their song, prefer #rapper / #undergroundrap.
 
