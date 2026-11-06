@@ -98,6 +98,14 @@ Takeaways (Nov 4): hits are all hot takes/questions (18K–92K); Che vs Jay-Z ha
 ## News notes
 - Jay-Z headlining Super Bowl LXI (Feb 14, 2027, SoFi Stadium) was first reported by Puck on Oct 20, 2026; Miley Cyrus, Justin Bieber and Harry Styles were reportedly also considered. Officially announced Oct 27, 2026 (Apple Music, the halftime show sponsor, posted it). Roc Nation has partnered with the NFL on the halftime show since 2019.
 
+## Profile plan (tt-profile-optimizer audit, Nov 6, 2026)
+- **Bio** (≤80 chars): `757 rapper + producer 🦍 underground hot takes & new music | stream "drako!"` (was: `757 / "drako!" On your streaming platform / IG: drakoo.wav`).
+- **Name field** (searchable, ≤30 chars): `drako! | 757 rapper` (was `drako!`). Handle @drakoo.wav stays.
+- **Pins, strongest first:** (1) Oct 22 "Che, Nine Vicious, or Morgan Wallen" post (92.4K); (2) Oct 17 face + map intro (best follow rate), swapped for the King Kong drop-day post once it's out; (3) vocal plugin question (18.3K, shows producer side).
+- **Link locked until 1,000 followers:** bio says "stream drako!", plus a pinned comment on the top pin naming where to listen.
+- **Positioning:** "I bring underground rap fans hot takes and new 757 music I make myself."
+- Photo: confirm the face reads clearly at thumbnail size.
+
 ## What works / what doesn't
 - Works: one clear question or hot take plus a bracket twist on screen; producer knowledge questions (lots of saves); news hot takes (views and comments); replying in comments.
 - Doesn't: posts with no question or take; two questions at once; asking people to do something for you; running the same topic many posts in a row.
