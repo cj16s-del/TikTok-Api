@@ -10,7 +10,7 @@ This repo is a fork of TikTok-Api. This file is the persistent memory for helpin
 - Separate again: a **new song with an open verse** (drako raps the first verse, the next verse is open for other artists), posted as a Halloween-pics carousel around Nov 2, 2026. Not the project and not the unreleased single.
 
 ## Standing instructions
-- Before writing any new post, review the analytics below (and any new screenshots) and say what's working and what's holding them back. Keep the good habits and drop the bad ones.
+- **Every time they ask for TikTok help:** review the analytics below (and any new screenshots/pulled stats), say what's working and what's holding them back, then **replicate and build on what works and take away what doesn't** (user request, Nov 6).
 - When they send new weekly analytics, add them to the tables below, then commit and push to `main`.
 - Use ALL available resources on every task: TikTok-Api (hashtag stats, post stats), Apify (tiktok-skills), last30days, the TokScript connector, web search, the MarketingSkills `social` skill, and the data in this file. Don't just finish tasks, aim for posts that perform like the best ones here. If a tool is blocked, say so and use the next best source.
 
