@@ -110,8 +110,9 @@ Takeaways (Nov 4): hits are all hot takes/questions (18K–92K); Che vs Jay-Z ha
 - Medium: #newmusic ~11.1k (19.6M videos, crowded; TikTok's official new-music hub), #soundcloud ~8.4k, #snippet ~7.3k, #musician ~8.9k (5.5M videos, broad), #musicmarketing ~5.7k, #soundgoodizer ~7k (only ~1.2k videos, little competition), #undergroundrap ~6.5k, #pluggnb ~6k.
 - Weak: #undergroundmusic ~5.1k, #upcomingartist ~4.0k, #musicpromotion ~4.0k, #musicpromo ~2.7k (topic-match promo tags are weak), #typebeat ~3.4k (771k videos), #skaiwatertypebeat ~1k (only 106 videos), #independentartist ~3.6k (2.5M videos, crowded), #rappertok ~5.5k, #producerhumor ~2.8k, #homestudio ~4.4k, #undergroundbeats ~3.9k, #undergroundhiphop ~2.9k.
 - Trending (Apify, Nov 4, 2026): Bleood's album KYI ("Kill Your Idols") and the song "Flying Dutchman" — top #bleood posts this week got ~50K–216K views; tags in use: #bleood #kyi #flyingdutchman #killyouridols #undergroundmusic. Fans are debating whether it's "noise".
+- Beat-buyer tags (Nov 6, 2026): #freestylebeat — Apify top 20 posts median ~470K plays, ~218 comments; rappers looking for beats, "who can rap on this" format. #beatsforsale — weak (top 20 median ~2.6K plays) and polluted by Beats headphones posts. #bleoodtypebeat ~1.2k avg (only 638 videos).
 - Only tag artists the beat actually sounds like.
-- Blocked so far (no data): #jerk, #jerkmusic, #jerkrap, #newartist, #indieartist, #undergroundartist, #newrap, #openverse, #openversechallenge, #unpopularopinion, #ninevicious, #bleood, #che.
+- Blocked so far (no data): #jerk, #jerkmusic, #jerkrap, #newartist, #indieartist, #undergroundartist, #newrap, #openverse, #openversechallenge, #unpopularopinion, #ninevicious, #bleood, #che, #chetypebeat, #rapbeats, #rappers.
 - Their sound: jerk / hoodtrap (e.g. "King Kong", final track of the project).
 - Pick tags for the audience you want, not just the topic: TikTok uses hashtags to choose which audience to test a post on. #producertok brings producers; for posts meant to get artists/listeners to hear their song, prefer #rapper / #undergroundrap.
 
